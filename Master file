@@ -2,8 +2,5 @@ line 1
 line 2 
 line 3
 git new file
-<<<<<<< HEAD
-This is a new change on the branch 
-9b6a604dbe1cbccf5dd6a4c27ecceb0d7ae277a1
-=======
-
+branch change new line 
+Branch last line 
